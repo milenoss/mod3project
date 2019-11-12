@@ -1,0 +1,2 @@
+class SpaceInvader < ApplicationRecord
+end

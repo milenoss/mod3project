@@ -36,7 +36,21 @@
     background: #cd7f32;
   }
     
-    
+ 
+  .ship {
+        
+    position: absolute;
+    height: 50px;
+    bottom: 50px;
+  }
+
+  .missile {
+    height: 25px;
+    bottom: 25px;
+    transform: rotate(-45deg);
+
+  }
+
     
     
     
